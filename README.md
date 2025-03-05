@@ -1,5 +1,5 @@
 # 🦠 **PayloadVault** 🦠
-
+---
 <p align="center">
   <img src="https://github.com/user-attachments/payloadvault-logo.png" alt="PayloadVault Logo" />
 </p>
@@ -14,5 +14,3 @@
 
 ### Disclaimer:
 This project is intended for **educational and authorized penetration testing purposes only**. Misuse of this software can result in criminal charges. Use responsibly.
-
----

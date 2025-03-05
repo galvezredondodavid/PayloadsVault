@@ -1,6 +1,6 @@
 # 🦠 **PayloadVault** 🦠
 
-🦠 **PayloadVault** 🦠 – A curated collection of low-detection payloads designed for security testing and penetration scenarios. Stay under the radar with our stealthy payloads! 🔥
+🦠 **PayloadVault** 🦠 – A collection of low-detection payloads designed for security testing and penetration scenarios. Stay under the radar with our stealthy payloads! 🔥
 
 ### Features:
 - ✅ **Low AV Detection Rate** (<4)

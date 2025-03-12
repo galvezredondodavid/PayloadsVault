@@ -5,7 +5,6 @@
 ### Features:
 - ✅ **Low AV Detection Rate** (<4)
 - 🦠 **Undetectable Payloads** – Designed to bypass antivirus detection
-- 🚀 **Regularly Updated** – Fresh payloads to keep you ahead
 - 📄 **Educational Purposes Only** – Use responsibly and ethically
 
 ### Disclaimer:
